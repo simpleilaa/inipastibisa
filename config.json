@@ -99,7 +99,7 @@
 		"downloadSoal" : "https://www.zenius.net/membership?utm_source=Internal&utm_medium=Internal-Ad-Download-Soal-Mobile&utm_campaign=FlashSale-0919"	
 	},
 	"macintoshRole" : {
-		"inactive" : false
+		"inactive" : false,
 		"guest" : true,
 		"member" : true,
 		"premium" : false,
